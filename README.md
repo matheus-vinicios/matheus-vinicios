@@ -1,15 +1,17 @@
 ### Em português (Brasil): Olá 👋
 ### In english: Hi there 👋
-\
+<br>
 Em português (Brasil): Sou Matheus Gentile, Analista de TI e Desenvolvedor Full-Stack Sênior na MTI (Empresa de Tecnologia da Informação Mato-Grossense).
 In english: I'm Matheus Gentile, IT Analyst & Senior Full-Stack Developer at MTI (Mato-Grossense Information Technology Company).
-\
-\
-### ⚡ Em português (Brasil): Tecnologias
-### ⚡ In english: Technologies
+<br>
+<br>
 
-Em português (Brasil): Abaixo, tecnologias e ferramentas que trabalho:\
-In english: Below, technologies and tools i work:
+#### ⚡ Em português (Brasil): Tecnologias
+#### ⚡ In english: Technologies
+<br>
+Em português (Brasil): Abaixo, tecnologias e ferramentas que trabalho:<br>
+In english: Below, technologies and tools i work:<br>
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -45,3 +47,8 @@ In english: Below, technologies and tools i work:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+<br>
+E-mail: [mailtomatheus@gentile.dev](mailto:mailtomatheus@gentile.dev)<br>
+Skype: matheus@gentile.dev<br>
+Site: [https://gentile.dev/ ](https://gentile.dev/ )
