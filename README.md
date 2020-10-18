@@ -2,7 +2,7 @@
 ### In english: Hi there 👋
 <br>
 Em português (Brasil): Sou Matheus Gentile, Analista de TI e Desenvolvedor Full-Stack Sênior na MTI (Empresa de Tecnologia da Informação Mato-Grossense).<br>
-In english: I'm Matheus Gentile, IT Analyst & Senior Full-Stack Developer at MTI (Mato-Grossense Information Technology Company).
+In english: I'm Matheus Gentile, IT Analyst and Senior Full-Stack Developer at MTI (Mato-Grossense Information Technology Company).
 <br>
 <br>
 
