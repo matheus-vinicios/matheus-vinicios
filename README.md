@@ -9,4 +9,4 @@ In english: I'm Matheus Gentile, IT Analyst & Senior Full-Stack Developer at MTI
 Em português (Brasil): Abaixo, tecnologias e ferramentas que trabalho:
 In english: Below, technologies and tools i work:
 
-![Java]
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
