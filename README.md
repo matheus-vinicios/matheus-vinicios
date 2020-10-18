@@ -1,4 +1,4 @@
-### Em português (Brasil): Olá 👋
+### Em português (Brasil): Olá 👋 \
 ### In english: Hi there 👋
 
 Em português (Brasil): Sou Matheus Gentile, Analista de TI e Desenvolvedor Full-Stack Sênior na MTI (Empresa de Tecnologia da Informação Mato-Grossense).
