@@ -48,6 +48,6 @@ In english: Below, technologies and tools i work:<br>
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 <br>
-E-mail: [mailtomatheus@gentile.dev](mailto:mailtomatheus@gentile.dev)<br>
+E-mail: [matheus@gentile.dev](mailto:mailtomatheus@gentile.dev)<br>
 Skype: matheus@gentile.dev<br>
 Site: [https://gentile.dev/ ](https://gentile.dev/ )
