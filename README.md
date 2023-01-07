@@ -1,11 +1,9 @@
 ### Olá, bem-vindo ao meu perfil 👋
 Sou Matheus Gentile, Analista de TI e Desenvolvedor Full-Stack Sênior na MTI (Empresa de Tecnologia da Informação Mato-Grossense).<br><br>
 
-### Objetivo
-
 Formado em Sistema de Informação pela UNIVAG - Instituto Educacional Mato-Grossense em Várzea Grande-MT, Pós-Graduação em Gestão de TI pelo IFE Cursos em Cuiabá-MT.
 
-Desenvolvedor Full-Stack Sênior com mais de 10 anos de experiência focado em back-end. Atualmente trabalho com arquitetura e engenharia de software, com prática em cultura DevOps com tecnologias como Red Hat OpenShift, Source-to-Image (S2I), Spring Boot, React/Redux, Angular, Git, Maven e Nexus Repository OSS, e também, desenvolvedor utilizando tecnologias como Java, Spring, Python, Node.js, React/Redux, Angular, Ionic, Flutter, Oracle Database, Microsoft SQL Server, MySQL, PostgreSQL e MongoDB (NoSQL).<br><br>
+Desenvolvedor Full-Stack Sênior com mais de 12 anos de experiência focado em back-end. Atualmente trabalho com arquitetura e engenharia de software, com prática em cultura DevOps com tecnologias como Cloud, Red Hat OpenShift, Kubernetes, Docker, GitLab, GitHub, Nexus Repository OSS, Jenkins e microsserviços, e também, desenvolvedor utilizando tecnologias como Java 8+, Spring Framework, Python, Node.js, React/Redux, Angular 8+, Ionic, Flutter, Oracle Database, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB (NoSQL) e Redis.<br><br>
 
 ### Experiência
 
